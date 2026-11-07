@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What is required for illness extensions?",
+    "doc": "late",
+    "evidence": "Agar student bemar ho to extension ke liye deadline se pehle medical proof dena zaroori hai.",
+    "split": "dev"
+  },
+  {
+    "query": "How do I reset a forgotten password?",
+    "doc": "password",
+    "evidence": "Agar password bhool jayein to recovery link se password reset kar sakte hain.",
+    "split": "dev"
+  },
+  {
+    "query": "Where do I upload assignments?",
+    "doc": "assignment",
+    "evidence": "Assignments learning portal ke through upload karein.",
+    "split": "dev"
+  },
+  {
+    "query": "Can contractors work remotely?",
+    "doc": "contractor",
+    "evidence": "Contractors sirf tab remote work kar sakte hain jab unke signed contract mein iski permission ho.",
+    "split": "dev"
+  },
+  {
+    "query": "What do I do for blank printer pages?",
+    "doc": "printer",
+    "evidence": "Agar printer blank pages de raha ho to ink level check karein aur cleaning utility run karein.",
+    "split": "test"
+  },
+  {
+    "query": "How can I recover my login access?",
+    "doc": "password",
+    "evidence": "Agar password bhool jayein to recovery link se password reset kar sakte hain.",
+    "split": "test"
+  },
+  {
+    "query": "How should I hand in my coursework?",
+    "doc": "assignment",
+    "evidence": "Assignments learning portal ke through upload karein.",
+    "split": "test"
+  },
+  {
+    "query": "What proof is needed when I was ill?",
+    "doc": "late",
+    "evidence": "Agar student bemar ho to extension ke liye deadline se pehle medical proof dena zaroori hai.",
+    "split": "test"
+  },
+  {
+    "query": "What are tomorrow's flight prices?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  },
+  {
+    "query": "Who won the football match?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  }
+]
